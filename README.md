@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdullah Qabbani
 - 👀 I’m interested in embedded systems
-- 🌱 I’m currently learning RTOS
+- 🌱 I’m currently learning IoT
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me. 
 https://www.linkedin.com/in/qabbaniii
