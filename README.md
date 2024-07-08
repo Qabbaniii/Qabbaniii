@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abdullah Qabbani</h1>
 <h3 align="center">A passionate Embedded system trainee with siemens</h3>
 
-- 🔭 I’m currently working on **Embedded Software projects**
+- 🔭 I’m currently working on **Front End projects**
 
-- 🌱 I’m currently learning **IoT & Automotive**
+- 🌱 I’m currently learning **React js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/qabbaniii](https://github.com/qabbaniii)
 
-- 💬 Ask me about **C, AVR, ARM ,RTOS**
+- 💬 Ask me about **C,JAVA ,PYTHON, HTML, CSS ,JAVASCRIPT ,React js**
 
 - 📫 How to reach me **Abdullahqabbaniii@gmail.com**
 
