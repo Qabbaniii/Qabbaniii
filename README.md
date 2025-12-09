@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Qabbani</h1>
-<h3 align="center">A Embedded system Engineer</h3>
+<h3 align="center">A Backend Engineer</h3>
 
 - 🔭 I’m currently working on **backEnd projects**
 
